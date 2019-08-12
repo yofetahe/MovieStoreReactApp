@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieStoreReactApp/static/css/main.8283d259.chunk.css",
+    "main.js": "/MovieStoreReactApp/static/js/main.fda21d95.chunk.js",
+    "main.js.map": "/MovieStoreReactApp/static/js/main.fda21d95.chunk.js.map",
+    "runtime~main.js": "/MovieStoreReactApp/static/js/runtime~main.78259a53.js",
+    "runtime~main.js.map": "/MovieStoreReactApp/static/js/runtime~main.78259a53.js.map",
+    "static/js/2.b1d25567.chunk.js": "/MovieStoreReactApp/static/js/2.b1d25567.chunk.js",
+    "static/js/2.b1d25567.chunk.js.map": "/MovieStoreReactApp/static/js/2.b1d25567.chunk.js.map",
+    "index.html": "/MovieStoreReactApp/index.html",
+    "precache-manifest.c5a6f355f69ed8c10b65f3c5a5ec1eda.js": "/MovieStoreReactApp/precache-manifest.c5a6f355f69ed8c10b65f3c5a5ec1eda.js",
+    "service-worker.js": "/MovieStoreReactApp/service-worker.js",
+    "static/css/main.8283d259.chunk.css.map": "/MovieStoreReactApp/static/css/main.8283d259.chunk.css.map"
+  }
+}
